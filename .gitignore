@@ -19,8 +19,9 @@ build*
 # Ignore the temp doxygen file
 .DS_Store
 
+.vscode
 __pycache__
-__init__
+__init__.py
 pth
 wandb
 checkpoints
